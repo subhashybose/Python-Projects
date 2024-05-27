@@ -1,0 +1,15 @@
+random.choice(...)
+
+for _ in range(number):
+
+Data Structure: Lists, Tuples, Dictionary and Set
+
+deck = set()
+deck.add()
+deck.remove()
+type(deck)
+len(deck)
+print(dir(deck))
+help(deck.add)
+
+

@@ -16,8 +16,9 @@ class FirstClass:
         return f"{this.num} - {this.name}"
 
 print(f"\nWelcome to My First Python Class \n")
+
+#obj = FirstClass()
 """
-obj = FirstClass()
 print(obj.num)
 print(obj.name)
 print(obj.town)
