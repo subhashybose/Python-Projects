@@ -1,0 +1,8 @@
+learn python basics
+try python programs
+write search program
+write sort program
+write data operations
+write data manipulations
+write data analysis programs
+work on a python project
