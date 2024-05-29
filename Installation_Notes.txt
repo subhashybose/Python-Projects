@@ -1,0 +1,7 @@
+Version - python -V
+
+YouTube - pip install pytube
+
+QR Code - pip install qrcode
+
+Tkinter - pip install tk (for GUI apps, built-in library)

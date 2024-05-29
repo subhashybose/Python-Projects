@@ -66,6 +66,8 @@ class Calculator:
 
 
 window = tk.Tk()
+window.title('Python Basic Calculator')
+
 obj = Calculator()
 frame_label = tk.Frame(master=window)
 frame_label.pack(fill=tk.X, side=tk.TOP)
