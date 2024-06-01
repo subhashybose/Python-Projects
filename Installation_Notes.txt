@@ -1,7 +1,9 @@
 Version - python -V
 
-YouTube - pip install pytube
+YouTube - pip install pytube (YouTube(<<URL>>))
 
-QR Code - pip install qrcode
+QR Code - pip install qrcode (qrcode.make(<<URL>>))
 
-Tkinter - pip install tk (for GUI apps, built-in library)
+tkinter - pip install tk (for GUI apps, built-in library)
+
+icecream - pip install icecream (for better debug/logggin instead of print())
